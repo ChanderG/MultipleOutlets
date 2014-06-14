@@ -1,1 +1,1 @@
-EAK- Starter Template with Bootstrap and FA
+Playing with mutliple outlets - EmberJS

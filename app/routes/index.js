@@ -8,6 +8,7 @@ export default Ember.Route.extend({
   events: {
     launchdetails: function(){
       this.render('stuff', { outlet: 'bottom'} );
+      this.render('stuff', { outlet: 'top' } );
     }
   }
 });
