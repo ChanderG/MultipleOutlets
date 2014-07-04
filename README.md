@@ -12,4 +12,4 @@ grunt server
 ```
 
 ###Preview
-Coming Soon.
+[See demo](http://chanderg.github.io/multiple-outlets-ember)
